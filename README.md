@@ -7,51 +7,102 @@
   />
 </p>
 
-**Platform & DevOps Engineer** focused on Kubernetes, IaC, and reliable delivery pipelines.
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=760&lines=I+build+reliable+delivery+pipelines;I+automate+infrastructure+with+IaC;I+ship+cloud-native+apps+on+Kubernetes;I+care+about+SLOs%2C+security%2C+and+cost"
+    alt="Typing intro"
+  />
+</p>
 
 ## What I do
-- Build CI/CD pipelines and release automation (quality gates, artifact management, basic security checks)
-- Run Kubernetes workloads with production patterns (probes, autoscaling, resource requests/limits, ingress)
-- Provision infrastructure using Terraform (modules, environments, remote state, repeatability)
-
-## Currently
-- Shipping a three-tier application to Kubernetes end-to-end (build → deploy → observe)
-- Writing Terraform code for AWS environments (dev/stage/prod) with reusable modules
-- Improving observability: metrics dashboards and actionable alerting
+- Platform/DevOps engineering: CI/CD, Kubernetes, IaC, and production operations
+- Strong focus on: repeatability, security-by-default, and measurable reliability
+- Currently: building hands-on projects end-to-end (code → container → cluster → cloud)
 
 ---
 
-## Proof of work
-A few builds I’m actively working on and improving:
+## Proof of work (featured builds)
+Replace these with your real repos and add 1-line outcomes.
 
 1. **Three-tier e-commerce on Kubernetes**
-   - Dockerized services, Kubernetes manifests/Helm/Kustomize, Ingress, HPA, config/secrets
-   - CI/CD pipeline: build → test → scan → deploy
+   - Dockerized services, Helm/Kustomize, Ingress, HPA, secrets/config, monitoring
+   - CI/CD with Jenkins + GitHub Actions (build, scan, deploy)
 
 2. **Terraform AWS environments (dev/stage/prod)**
-   - VPC, IAM, EKS foundations, remote state, modules, guardrails
+   - VPC, EKS, IAM, remote state, modules, policy guardrails
 
 3. **Observability starter kit**
-   - Prometheus + Grafana dashboards, alert rules, service-level monitoring
+   - Prometheus + Grafana dashboards, alert rules, logs integration
 
-Tip: pin your best 4–6 repositories on your GitHub profile (Customize your pins).
-
----
-
-## Toolbox
-- **Platform/Containers:** Linux, Docker, Kubernetes, Helm
-- **CI/CD:** Jenkins, GitHub Actions
-- **Cloud/IaC:** AWS, Terraform
-- **Observability:** Prometheus, Grafana
-- **Scripting:** Bash
+Tip: pin these repos on your GitHub profile (Profile → Customize your pins).
 
 ---
 
-## Contact
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Email: YOUR_EMAIL
+## Toolbox (role-based)
+
+**Platform / Containers**
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,helm" alt="Platform tools" />
+</p>
+
+**CI/CD**
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" alt="CI/CD tools" />
+</p>
+
+**Cloud / IaC**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,terraform,ansible" alt="Cloud and IaC tools" />
+</p>
+
+**Observability**
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Observability tools" />
+</p>
+
+---
+
+## Highlights
+- Built repeatable deployment pipelines with quality gates (lint/test/security scan)
+- Prefer GitOps-style workflows where possible
+- Comfortable debugging production: logs, metrics, traces, and node-level Linux checks
+
+---
+
+## Stats
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=abhinavpathaklabs&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=86400"
+    alt="GitHub stats"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavpathaklabs&layout=compact&hide_title=true&langs_count=8&cache_seconds=86400"
+    alt="Top languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=abhinavpathaklabs&hide_border=true&cache_seconds=86400"
+    alt="GitHub streak"
+  />
+</p>
+
+---
+
+## Connect
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Reach%20out-informational" alt="Email" />
+  </a>
+</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=abhinavpathaklabs&label=Profile%20views" alt="Profile views" />
 </p>
-

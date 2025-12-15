@@ -64,26 +64,26 @@ Tip: pin these repos on your GitHub profile (Profile → “Customize your pins�
 
 ## Stats (keep it minimal, not noisy)
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=abhinavpathaklabs&show_icons=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavpathaklabs&layout=compact" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavpathaklabs" />
 </p>
 
 ---
 
 ## Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavpathaklabs&hide_border=true" />
 </p>
 
 ---
 
 ## Trophies (optional)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&row=1&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavpathaklabs&row=1&no-frame=true" />
 </p>
 
 ---
@@ -96,5 +96,5 @@ Tip: pin these repos on your GitHub profile (Profile → “Customize your pins�
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views" />
+  <img src="https://komarev.com/ghpvc/?username=abhinavpathaklabs&label=Profile%20views" />
 </p>

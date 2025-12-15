@@ -83,12 +83,6 @@ Tip: pin these repos on your GitHub profile (Profile → Customize your pins).
   />
 </p>
 
-<p align="center">
-  <img
-  height="165"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavpathaklabs"
-  alt="GitHub streak"
-/>
 
 </p>
 

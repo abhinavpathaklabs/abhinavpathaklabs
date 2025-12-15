@@ -90,8 +90,6 @@ Tip: pin these repos on your GitHub profile (Profile → Customize your pins).
   alt="GitHub streak"
 />
 
-/>
-
 </p>
 
 ---

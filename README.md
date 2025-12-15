@@ -1,4 +1,7 @@
-<!-- Profile README for: abhinavpathaklabs -->
+<p align="center">
+  <img src="./assets/banner.svg" alt="Abhinav Pathak banner" />
+</p>
+
 
 <p align="center">
   <img

@@ -85,10 +85,11 @@ Tip: pin these repos on your GitHub profile (Profile → Customize your pins).
 
 <p align="center">
   <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=abhinavpathaklabs&hide_border=true&cache_seconds=86400"
-    alt="GitHub streak"
-  />
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=abhinavpathaklabs&show_icons=true&hide_title=true&include_all_commits=true&cache_seconds=86400"
+  alt="GitHub activity"
+/>
+
 </p>
 
 ---

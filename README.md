@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=175&section=header&text=Abhinav%20Pathak&fontSize=44&fontAlignY=35&desc=Platform%20%26%20DevOps%20Engineer&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=waving&height=175&section=header&text=Abhinav%20Pathak&fontSize=44&fontAlignY=35&desc=Platform%20%26amp%3B%20DevOps%20Engineer&descAlignY=58"
     alt="Abhinav Pathak banner"
   />
 </p>
